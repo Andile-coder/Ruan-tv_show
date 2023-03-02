@@ -1,0 +1,12 @@
+.container_shows {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
+.show_item {
+  cursor: pointer;
+}
+#modal_container{
+  background-color: brown;
+  display: none;
+}
